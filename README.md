@@ -1,5 +1,5 @@
 # Uma Musume Race Stats Calculator
-
+View the HTML Version [Here](www.r00t-tsai.github.io/Uma-Musume-RaceStatCalculator)
 ## Logic
 
 ### Stat-to-Score Conversion
