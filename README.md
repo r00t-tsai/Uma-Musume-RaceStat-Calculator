@@ -95,7 +95,10 @@ This is handled by the script **`import_data.py`**.
 * Run `template.py` to generate the `data.xlsx` template.
 * Edit the excel file values (add your new character templates, skills, etc.)
 * Run `import_data.py` after. It will generate .cpp files with the correct data format so that you can manually plug-in inside `skills.cpp` and `stats.cpp`.
-
+>
+> NOTE
+> 1. The output cpp files DOES NOT replace the existing files in the src folder. You must manually import them.
+> 2. The output cpp files NEEDS RECOMPILATION. Which means that you need to recompile the executable after adding them.
 ---
 # License
 This is licensed under MIT. See **LICENSE.md**
