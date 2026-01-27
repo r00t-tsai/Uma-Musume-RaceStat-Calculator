@@ -1,6 +1,6 @@
-# Uma Musume Statistics Calculator
+# Uma Musume Race Stats Calculator
 
-## Logic and Statistics
+## Logic
 
 ### Stat-to-Score Conversion
 Raw stats are transformed into a `StatScore` based on the following bracketed logic:
