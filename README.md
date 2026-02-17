@@ -1,5 +1,6 @@
 # Uma Musume Race Stats Calculator
-View the HTML Version [Here](https://r00t-tsai.github.io/Uma-Musume-RaceStat-Calculator/). Note that the HTML Version is NOT UPDATED and will not be supported (unless you fork it yourself, then my repository is fine with it).
+~~View the HTML Version Here. Note that the HTML Version is NOT UPDATED and will not be supported (unless you fork it yourself, then my repository is fine with it).~~
+Removed because it is outdated.
 ## Logic
 
 ### Stat-to-Score Conversion
